@@ -1,0 +1,62 @@
+{
+    "categories" : [
+        {
+            "id": 1,
+            "name": "Cơm rang"
+        },
+        {
+            "id": 2,
+            "name": "Cơm trắng" 
+        },
+        {
+            "id": 3,
+            "name": "Phở, Bún"
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "images": [
+                {
+                    "url": "https://monantribenh.com/wp-content/uploads/2018/12/2-com-rang-trung-huong-xuan.jpg"
+                }
+            ],
+            "name":"Cơm rang thập cẩm",
+            "price": "30000",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "images": [
+                {
+                    "url": "https://monantribenh.com/wp-content/uploads/2018/12/2-com-rang-trung-huong-xuan.jpg"
+                }
+            ],
+            "name":"Cơm rang thập cẩm 2",
+            "price": "30000",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "images": [
+                {
+                    "url": "https://bizweb.dktcdn.net/100/307/913/products/comtrang-300x300.jpg"
+                }
+            ],
+            "name":"Cơm trắng thập cẩm",
+            "price": "30000",
+            "category": 2
+        },
+        {
+            "id": 4,
+            "images": [
+                {
+                    "url": "https://baoquocte.vn/stores/news_dataimages/minhhoa/082016/05/10/100139_pho-bo-tai-nam.jpg"
+                }
+            ],
+            "name":"Phở Bò",
+            "price": "30000",
+            "category": 3
+        }
+    ]
+}
